@@ -1,0 +1,23 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "api for all calculations",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "nitin",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.778.0",
+    "aws-serverless-express": "^3.3.8",
+    "cors": "^2.8.5",
+    "csv-parser": "^2.3.3",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.0",
+    "jsonwebtoken": "^8.5.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.6",
+    "randomstring": "^1.1.5"
+  }
+}
