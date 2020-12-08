@@ -43,4 +43,4 @@ function anagram(inputString){
 
 //console.log(anagram("aa aa odg dog gdo"));
 //console.log(anagram("a c b c run urn urn"));
-console.log(anagram("k k k k bar foo"));
+//console.log(anagram("k k k k bar foo"));
